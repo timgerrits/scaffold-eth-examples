@@ -9,7 +9,7 @@ contract YourContract {
 
   // event SetPurpose(address sender, string purpose);
 
-  string public purpose = "Learning git";
+  string public purpose = "Learning more git";
 
   constructor() {
     // what should we do on deploy?
